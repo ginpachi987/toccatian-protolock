@@ -1,0 +1,9 @@
+{
+  "newGame": "New Game",
+  "reset": "Reset",
+  "tip": "How to play",
+  "title": "Toccatian Protolock",
+  "tutorial": [
+    "The goal of this game is just to untangle all lines by switching places of their dots."
+  ]
+}
